@@ -1,3 +1,4 @@
+![Header](./header.png)
 <h1 align="center">Hola 👋| Matias Vidal</h1>
 <h3 align="center">Estudiante de ingenieria en sistemas</h3>
 <img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" style="margin: 10px; border-radius: 8px;">
