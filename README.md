@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Vidal</h1>
 <h3 align="center">Estudiante de ingenieria en sistemas</h3>
-img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"
+<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mat1v1dal&label=Profile%20views&color=0e75b6&style=flat" alt="mat1v1dal" /> </p>
