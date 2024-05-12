@@ -9,7 +9,7 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
