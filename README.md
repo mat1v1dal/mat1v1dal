@@ -38,8 +38,7 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 ## Spotify Playing 🎧
 
 
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
+[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/213qu256hyrtitzqhgxwsuujy)
 
 
 ------
