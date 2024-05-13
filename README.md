@@ -24,7 +24,7 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 
 ## My Trending Repos 💻
 <br/>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/UCC-LabCompu2/proyecto2024-vidal.git)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=mat1v1dal&repo= proyecto2024-vidal&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/UCC-LabCompu2/proyecto2024-vidal.git)
 
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
