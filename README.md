@@ -44,6 +44,3 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 
 ------
 
-
-Credit: [Sourab Maity](https://github.com/sourabmaity)
-Last Edited on: 02/07/2022
