@@ -3,7 +3,7 @@
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
-<img width="50%" align="right" alt="Github Image" src="./R.gif" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente cursando 2do año
 - 📫 Contacto: [2302403@ucc.edu.ar](mailto:2302403@ucc.edu.ar)
