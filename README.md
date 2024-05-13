@@ -21,9 +21,6 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 <img alt="Coding Gif" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" height="200" align="right"/>&nbsp;
  <br/>
  
-<br/>
-<br/>
-<br/>
 ## Mis estadisticas💻
 <br/>
 <div align=center>
