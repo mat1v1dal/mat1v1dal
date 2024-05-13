@@ -24,7 +24,9 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 
 ## Mis estadisticas💻
 <br/>
-![mat1v1dal's Stats](https://github-readme-stats.vercel.app/api?username=mat1v1dal&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=mat1v1dal&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+</div>
 
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
