@@ -18,8 +18,7 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/mat1v1dal)&nbsp;  
 
-<img alt="Coding Gif" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" height="200" align="right"/>&nbsp;
- <br/>
+
  
 ## Mis estadisticas💻
 <br/>
