@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
+**Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.**
 <img width="50%" align="right" alt="Github Image" src="./e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
