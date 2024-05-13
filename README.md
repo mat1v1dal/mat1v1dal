@@ -25,6 +25,7 @@ Soy estudiante de ingenieria en sistemas en la Universidad Catolida de Cordoba.
 <br/>
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=mat1v1dal&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mat1v1dal&theme=dracula&hide_border=true" />
 </div>
 
 
